@@ -1,0 +1,40 @@
+[
+    {
+      "id": 1,
+      "name": "Sony",
+      "price": 10.99,
+      "imgUrl": "/imgs/s1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "price": 1199,
+      "imgUrl": "/imgs/ss2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Watch",
+      "price": 1.05,
+      "imgUrl": "/imgs/ss3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Phones",
+      "price": 14000,
+      "imgUrl": "/imgs/ss4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Phones",
+      "price": 14000,
+      "imgUrl": "/imgs/ss5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Phones",
+      "price": 14000,
+      "imgUrl": "/imgs/ss2.jpg"
+    }
+  
+  ]
+  

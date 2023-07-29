@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "name": "Shoe",
+    "price": 10.99,
+    "imgUrl": "/imgs/shoes.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "price": 1199,
+    "imgUrl": "/imgs/mac.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Watch",
+    "price": 1.05,
+    "imgUrl": "/imgs/watch.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Phones",
+    "price": 14000,
+    "imgUrl": "/imgs/iphn14.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Phones",
+    "price": 14000,
+    "imgUrl": "/imgs/ipad.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Phones",
+    "price": 14000,
+    "imgUrl": "/imgs/ipad.jpg"
+  }
+
+]
